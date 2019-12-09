@@ -1,0 +1,22 @@
+{
+  "name": "npm-lab-nyc-web-100719",
+  "version": "1.0.0",
+  "description": "clock app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'hello'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenave/npm-lab-nyc-web-100719.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kenave/npm-lab-nyc-web-100719/issues"
+  },
+  "homepage": "https://github.com/kenave/npm-lab-nyc-web-100719#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
